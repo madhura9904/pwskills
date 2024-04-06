@@ -1,0 +1,45 @@
+1)STATISTICS:Science of collecting,organizing,analying data to help in decision making process
+
+2)Types of stats:
+1)Descriptive stats:Consist of organizing and summarising data.Ex:Surveys
+2)Inferential Stats:Consist of using data you have measured to draw conc using tests like z-test,t-test,hypothesis testing,p-value.Ex:In companies to draw inferences
+
+3)Types of data:
+1)Quantitative:Numerical data(+,/,*,-)
+1]Discrete-It will be whole no with a specific range-Ex:No of bank acc,No of children
+2]Continous-Any val;dec ad any range-Ex:Height,weight,speed,temp
+
+2)Qualitative/Categorical:
+1]Nominal:Fixed categories-Ex:Blood group,genders
+2]Ordinal:We assign Rank to those categories-Ex:Reviews-Good,bad,satisfactory
+
+4)(i)Qualitative-Ordinal
+  (ii)Qualitative-Nominal
+  (iii)Quantitaive-Continous
+  (iv)Quantitative-Discrete
+
+5)Scale of measurment of data:
+1)Nominal scale data:
+>Qualitative data is ivolved
+>Ex:Gender,color
+>Order doesn't matter
+>Focus more on count/distribution
+
+2)Ordinal scale data:
+>Ranking,order matters
+>Diff can't be measured
+>Ex:Qualification
+
+3)Interval scale data:
+>Rank and order matters
+>Difference can be easily measured excluding ratio
+>Don't have 0 starting value-may even start with negative values
+>Ex:Temperature
+
+
+4)Ratio scale data:
+>Order,rank matters
+>Differences are Measurable along with ratios
+>Does have a 0 starting point
+>Ex:Grades
+
